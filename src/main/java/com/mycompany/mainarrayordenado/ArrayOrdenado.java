@@ -27,7 +27,7 @@ public class ArrayOrdenado {
     public static void setArray(int[] array) {
         ArrayOrdenado.array = array;
     }
-
+// hola dadasdasded
     public void ordenarArray() {
         int tmp;
         for (int i = 0; i < getArray().length - 1; i++) {
